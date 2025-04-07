@@ -12,7 +12,7 @@
 ### ✨ 〢 Features
 - Discord Infos
 - Crypto wallets
-- All Browsers Cookies & Passwords **Include FIREFOX & ZEN**
+- All Browsers Cookies & Passwords   **(Include FIREFOX & ZEN)**
 - Minecraft (IAS, METEOR, FEATHER, LUNAR)
 - SonOyuncu
 - CraftRise
